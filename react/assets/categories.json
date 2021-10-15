@@ -1,0 +1,1931 @@
+{
+  "Departments": [],
+  "Brands": [],
+  "SpecificationFilters": {},
+  "CategoriesTrees": [
+    {
+      "Id": 151,
+      "Quantity": 55,
+      "Position": null,
+      "Name": "Maquinarias",
+      "Link": "/Maquinarias?map=c",
+      "LinkEncoded": "/Maquinarias?map=c",
+      "Map": "c",
+      "Value": "Maquinarias",
+      "Children": [
+        {
+          "Id": 152,
+          "Quantity": 6,
+          "Position": null,
+          "Name": "Accesorios Maquinarias",
+          "Link": "/Maquinarias/Accesorios-Maquinarias?map=c,c",
+          "LinkEncoded": "/Maquinarias/Accesorios-Maquinarias?map=c,c",
+          "Map": "c",
+          "Value": "Accesorios-Maquinarias",
+          "Children": []
+        },
+        {
+          "Id": 153,
+          "Quantity": 23,
+          "Position": null,
+          "Name": "Bombas y Motobombas",
+          "Link": "/Maquinarias/Bombas-y-Motobombas?map=c,c",
+          "LinkEncoded": "/Maquinarias/Bombas-y-Motobombas?map=c,c",
+          "Map": "c",
+          "Value": "Bombas-y-Motobombas",
+          "Children": []
+        },
+        {
+          "Id": 155,
+          "Quantity": 16,
+          "Position": null,
+          "Name": "Generadores",
+          "Link": "/Maquinarias/Generadores?map=c,c",
+          "LinkEncoded": "/Maquinarias/Generadores?map=c,c",
+          "Map": "c",
+          "Value": "Generadores",
+          "Children": []
+        },
+        {
+          "Id": 158,
+          "Quantity": 1,
+          "Position": null,
+          "Name": "Maquinaria de Construcción",
+          "Link": "/Maquinarias/Maquinaria-de-Construccion?map=c,c",
+          "LinkEncoded": "/Maquinarias/Maquinaria-de-Construccion?map=c,c",
+          "Map": "c",
+          "Value": "Maquinaria-de-Construccion",
+          "Children": []
+        },
+        {
+          "Id": 277,
+          "Quantity": 9,
+          "Position": null,
+          "Name": "Maquinarías de Jardín",
+          "Link": "/Maquinarias/Maquinarias-de-Jardin?map=c,c",
+          "LinkEncoded": "/Maquinarias/Maquinarias-de-Jardin?map=c,c",
+          "Map": "c",
+          "Value": "Maquinarias-de-Jardin",
+          "Children": [
+            {
+              "Id": 279,
+              "Quantity": 5,
+              "Position": null,
+              "Name": "Cortacésped",
+              "Link": "/Maquinarias/Maquinarias-de-Jardin/Cortacesped?map=c,c,c",
+              "LinkEncoded": "/Maquinarias/Maquinarias-de-Jardin/Cortacesped?map=c,c,c",
+              "Map": "c",
+              "Value": "Cortacesped",
+              "Children": []
+            },
+            {
+              "Id": 282,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Motosierras",
+              "Link": "/Maquinarias/Maquinarias-de-Jardin/Motosierras?map=c,c,c",
+              "LinkEncoded": "/Maquinarias/Maquinarias-de-Jardin/Motosierras?map=c,c,c",
+              "Map": "c",
+              "Value": "Motosierras",
+              "Children": []
+            },
+            {
+              "Id": 284,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Pulverizadores",
+              "Link": "/Maquinarias/Maquinarias-de-Jardin/Pulverizadores?map=c,c,c",
+              "LinkEncoded": "/Maquinarias/Maquinarias-de-Jardin/Pulverizadores?map=c,c,c",
+              "Map": "c",
+              "Value": "Pulverizadores",
+              "Children": []
+            },
+            {
+              "Id": 285,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Sopladores",
+              "Link": "/Maquinarias/Maquinarias-de-Jardin/Sopladores?map=c,c,c",
+              "LinkEncoded": "/Maquinarias/Maquinarias-de-Jardin/Sopladores?map=c,c,c",
+              "Map": "c",
+              "Value": "Sopladores",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 161,
+      "Quantity": 37,
+      "Position": null,
+      "Name": "Iluminación y Electricidad",
+      "Link": "/Iluminacion-y-Electricidad?map=c",
+      "LinkEncoded": "/Iluminacion-y-Electricidad?map=c",
+      "Map": "c",
+      "Value": "Iluminacion-y-Electricidad",
+      "Children": [
+        {
+          "Id": 162,
+          "Quantity": 1,
+          "Position": null,
+          "Name": "Electricidad",
+          "Link": "/Iluminacion-y-Electricidad/Electricidad?map=c,c",
+          "LinkEncoded": "/Iluminacion-y-Electricidad/Electricidad?map=c,c",
+          "Map": "c",
+          "Value": "Electricidad",
+          "Children": [
+            {
+              "Id": 167,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Interruptores y Enchufes",
+              "Link": "/Iluminacion-y-Electricidad/Electricidad/Interruptores-y-Enchufes?map=c,c,c",
+              "LinkEncoded": "/Iluminacion-y-Electricidad/Electricidad/Interruptores-y-Enchufes?map=c,c,c",
+              "Map": "c",
+              "Value": "Interruptores-y-Enchufes",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 171,
+          "Quantity": 36,
+          "Position": null,
+          "Name": "Iluminación",
+          "Link": "/Iluminacion-y-Electricidad/Iluminacion?map=c,c",
+          "LinkEncoded": "/Iluminacion-y-Electricidad/Iluminacion?map=c,c",
+          "Map": "c",
+          "Value": "Iluminacion",
+          "Children": [
+            {
+              "Id": 172,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Equipos Fluorescentes",
+              "Link": "/Iluminacion-y-Electricidad/Iluminacion/Equipos-Fluorescentes?map=c,c,c",
+              "LinkEncoded": "/Iluminacion-y-Electricidad/Iluminacion/Equipos-Fluorescentes?map=c,c,c",
+              "Map": "c",
+              "Value": "Equipos-Fluorescentes",
+              "Children": []
+            },
+            {
+              "Id": 174,
+              "Quantity": 14,
+              "Position": null,
+              "Name": "Iluminación Exterior",
+              "Link": "/Iluminacion-y-Electricidad/Iluminacion/Iluminacion-Exterior?map=c,c,c",
+              "LinkEncoded": "/Iluminacion-y-Electricidad/Iluminacion/Iluminacion-Exterior?map=c,c,c",
+              "Map": "c",
+              "Value": "Iluminacion-Exterior",
+              "Children": []
+            },
+            {
+              "Id": 175,
+              "Quantity": 12,
+              "Position": null,
+              "Name": "Iluminación Interior",
+              "Link": "/Iluminacion-y-Electricidad/Iluminacion/Iluminacion-Interior?map=c,c,c",
+              "LinkEncoded": "/Iluminacion-y-Electricidad/Iluminacion/Iluminacion-Interior?map=c,c,c",
+              "Map": "c",
+              "Value": "Iluminacion-Interior",
+              "Children": []
+            },
+            {
+              "Id": 176,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Iluminación Solar",
+              "Link": "/Iluminacion-y-Electricidad/Iluminacion/Iluminacion-Solar?map=c,c,c",
+              "LinkEncoded": "/Iluminacion-y-Electricidad/Iluminacion/Iluminacion-Solar?map=c,c,c",
+              "Map": "c",
+              "Value": "Iluminacion-Solar",
+              "Children": []
+            },
+            {
+              "Id": 177,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Linternas",
+              "Link": "/Iluminacion-y-Electricidad/Iluminacion/Linternas?map=c,c,c",
+              "LinkEncoded": "/Iluminacion-y-Electricidad/Iluminacion/Linternas?map=c,c,c",
+              "Map": "c",
+              "Value": "Linternas",
+              "Children": []
+            },
+            {
+              "Id": 178,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Otros",
+              "Link": "/Iluminacion-y-Electricidad/Iluminacion/Otros?map=c,c,c",
+              "LinkEncoded": "/Iluminacion-y-Electricidad/Iluminacion/Otros?map=c,c,c",
+              "Map": "c",
+              "Value": "Otros",
+              "Children": []
+            },
+            {
+              "Id": 179,
+              "Quantity": 3,
+              "Position": null,
+              "Name": "Tubos y Ampolletas",
+              "Link": "/Iluminacion-y-Electricidad/Iluminacion/Tubos-y-Ampolletas?map=c,c,c",
+              "LinkEncoded": "/Iluminacion-y-Electricidad/Iluminacion/Tubos-y-Ampolletas?map=c,c,c",
+              "Map": "c",
+              "Value": "Tubos-y-Ampolletas",
+              "Children": []
+            },
+            {
+              "Id": 325,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Iluminación Led",
+              "Link": "/Iluminacion-y-Electricidad/Iluminacion/Iluminacion-Led?map=c,c,c",
+              "LinkEncoded": "/Iluminacion-y-Electricidad/Iluminacion/Iluminacion-Led?map=c,c,c",
+              "Map": "c",
+              "Value": "Iluminacion-Led",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Quantity": 40,
+      "Position": null,
+      "Name": "Baño y Cocina",
+      "Link": "/Baño-y-Cocina?map=c",
+      "LinkEncoded": "/Ba%C3%B1o-y-Cocina?map=c",
+      "Map": "c",
+      "Value": "Baño-y-Cocina",
+      "Children": [
+        {
+          "Id": 11,
+          "Quantity": 5,
+          "Position": null,
+          "Name": "Cocina",
+          "Link": "/Baño-y-Cocina/Cocina?map=c,c",
+          "LinkEncoded": "/Ba%C3%B1o-y-Cocina/Cocina?map=c,c",
+          "Map": "c",
+          "Value": "Cocina",
+          "Children": [
+            {
+              "Id": 14,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Grifería",
+              "Link": "/Baño-y-Cocina/Cocina/Griferia?map=c,c,c",
+              "LinkEncoded": "/Ba%C3%B1o-y-Cocina/Cocina/Griferia?map=c,c,c",
+              "Map": "c",
+              "Value": "Griferia",
+              "Children": []
+            },
+            {
+              "Id": 322,
+              "Quantity": 4,
+              "Position": null,
+              "Name": "Lavaplatos y Lavacopas",
+              "Link": "/Baño-y-Cocina/Cocina/Lavaplatos-y-Lavacopas?map=c,c,c",
+              "LinkEncoded": "/Ba%C3%B1o-y-Cocina/Cocina/Lavaplatos-y-Lavacopas?map=c,c,c",
+              "Map": "c",
+              "Value": "Lavaplatos-y-Lavacopas",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 3,
+          "Quantity": 35,
+          "Position": null,
+          "Name": "Baño",
+          "Link": "/Baño-y-Cocina/Baño?map=c,c",
+          "LinkEncoded": "/Ba%C3%B1o-y-Cocina/Ba%C3%B1o?map=c,c",
+          "Map": "c",
+          "Value": "Baño",
+          "Children": [
+            {
+              "Id": 4,
+              "Quantity": 22,
+              "Position": null,
+              "Name": "Accesorios Baño",
+              "Link": "/Baño-y-Cocina/Baño/Accesorios-Baño?map=c,c,c",
+              "LinkEncoded": "/Ba%C3%B1o-y-Cocina/Ba%C3%B1o/Accesorios-Ba%C3%B1o?map=c,c,c",
+              "Map": "c",
+              "Value": "Accesorios-Baño",
+              "Children": []
+            },
+            {
+              "Id": 6,
+              "Quantity": 4,
+              "Position": null,
+              "Name": "Decoración Baño",
+              "Link": "/Baño-y-Cocina/Baño/Decoracion-Baño?map=c,c,c",
+              "LinkEncoded": "/Ba%C3%B1o-y-Cocina/Ba%C3%B1o/Decoracion-Ba%C3%B1o?map=c,c,c",
+              "Map": "c",
+              "Value": "Decoracion-Baño",
+              "Children": []
+            },
+            {
+              "Id": 7,
+              "Quantity": 7,
+              "Position": null,
+              "Name": "Grifería",
+              "Link": "/Baño-y-Cocina/Baño/Griferia?map=c,c,c",
+              "LinkEncoded": "/Ba%C3%B1o-y-Cocina/Ba%C3%B1o/Griferia?map=c,c,c",
+              "Map": "c",
+              "Value": "Griferia",
+              "Children": []
+            },
+            {
+              "Id": 8,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Muebles y Vanitorios",
+              "Link": "/Baño-y-Cocina/Baño/Muebles-y-Vanitorios?map=c,c,c",
+              "LinkEncoded": "/Ba%C3%B1o-y-Cocina/Ba%C3%B1o/Muebles-y-Vanitorios?map=c,c,c",
+              "Map": "c",
+              "Value": "Muebles-y-Vanitorios",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 22,
+      "Quantity": 72,
+      "Position": null,
+      "Name": "Construcción",
+      "Link": "/Construccion?map=c",
+      "LinkEncoded": "/Construccion?map=c",
+      "Map": "c",
+      "Value": "Construccion",
+      "Children": [
+        {
+          "Id": 103,
+          "Quantity": 5,
+          "Position": null,
+          "Name": "Cañerías y Fittings",
+          "Link": "/Construccion/Cañerias-y-Fittings?map=c,c",
+          "LinkEncoded": "/Construccion/Ca%C3%B1erias-y-Fittings?map=c,c",
+          "Map": "c",
+          "Value": "Cañerias-y-Fittings",
+          "Children": [
+            {
+              "Id": 107,
+              "Quantity": 5,
+              "Position": null,
+              "Name": "Fittings PVC",
+              "Link": "/Construccion/Cañerias-y-Fittings/Fittings-PVC?map=c,c,c",
+              "LinkEncoded": "/Construccion/Ca%C3%B1erias-y-Fittings/Fittings-PVC?map=c,c,c",
+              "Map": "c",
+              "Value": "Fittings-PVC",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 110,
+          "Quantity": 3,
+          "Position": null,
+          "Name": "Flujo de Agua",
+          "Link": "/Construccion/Flujo-de-Agua?map=c,c",
+          "LinkEncoded": "/Construccion/Flujo-de-Agua?map=c,c",
+          "Map": "c",
+          "Value": "Flujo-de-Agua",
+          "Children": [
+            {
+              "Id": 111,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Flexibles de Agua",
+              "Link": "/Construccion/Flujo-de-Agua/Flexibles-de-Agua?map=c,c,c",
+              "LinkEncoded": "/Construccion/Flujo-de-Agua/Flexibles-de-Agua?map=c,c,c",
+              "Map": "c",
+              "Value": "Flexibles-de-Agua",
+              "Children": []
+            },
+            {
+              "Id": 114,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Válvulas de Agua",
+              "Link": "/Construccion/Flujo-de-Agua/Valvulas-de-Agua?map=c,c,c",
+              "LinkEncoded": "/Construccion/Flujo-de-Agua/Valvulas-de-Agua?map=c,c,c",
+              "Map": "c",
+              "Value": "Valvulas-de-Agua",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 12,
+          "Quantity": 52,
+          "Position": null,
+          "Name": "Calefont y Termos",
+          "Link": "/Construccion/Calefont-y-Termos?map=c,c",
+          "LinkEncoded": "/Construccion/Calefont-y-Termos?map=c,c",
+          "Map": "c",
+          "Value": "Calefont-y-Termos",
+          "Children": []
+        },
+        {
+          "Id": 23,
+          "Quantity": 3,
+          "Position": null,
+          "Name": "Obra Gruesa",
+          "Link": "/Construccion/Obra-Gruesa?map=c,c",
+          "LinkEncoded": "/Construccion/Obra-Gruesa?map=c,c",
+          "Map": "c",
+          "Value": "Obra-Gruesa",
+          "Children": [
+            {
+              "Id": 27,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Fosas y Estanques",
+              "Link": "/Construccion/Obra-Gruesa/Fosas-y-Estanques?map=c,c,c",
+              "LinkEncoded": "/Construccion/Obra-Gruesa/Fosas-y-Estanques?map=c,c,c",
+              "Map": "c",
+              "Value": "Fosas-y-Estanques",
+              "Children": []
+            },
+            {
+              "Id": 34,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Techumbre",
+              "Link": "/Construccion/Obra-Gruesa/Techumbre?map=c,c,c",
+              "LinkEncoded": "/Construccion/Obra-Gruesa/Techumbre?map=c,c,c",
+              "Map": "c",
+              "Value": "Techumbre",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 63,
+          "Quantity": 2,
+          "Position": null,
+          "Name": "Adhesivos",
+          "Link": "/Construccion/Adhesivos?map=c,c",
+          "LinkEncoded": "/Construccion/Adhesivos?map=c,c",
+          "Map": "c",
+          "Value": "Adhesivos",
+          "Children": [
+            {
+              "Id": 66,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "PVC",
+              "Link": "/Construccion/Adhesivos/PVC?map=c,c,c",
+              "LinkEncoded": "/Construccion/Adhesivos/PVC?map=c,c,c",
+              "Map": "c",
+              "Value": "PVC",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 72,
+          "Quantity": 2,
+          "Position": null,
+          "Name": "Fijaciones",
+          "Link": "/Construccion/Fijaciones?map=c,c",
+          "LinkEncoded": "/Construccion/Fijaciones?map=c,c",
+          "Map": "c",
+          "Value": "Fijaciones",
+          "Children": [
+            {
+              "Id": 76,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Ganchos y Cáncamos",
+              "Link": "/Construccion/Fijaciones/Ganchos-y-Cancamos?map=c,c,c",
+              "LinkEncoded": "/Construccion/Fijaciones/Ganchos-y-Cancamos?map=c,c,c",
+              "Map": "c",
+              "Value": "Ganchos-y-Cancamos",
+              "Children": []
+            },
+            {
+              "Id": 78,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Pernos",
+              "Link": "/Construccion/Fijaciones/Pernos?map=c,c,c",
+              "LinkEncoded": "/Construccion/Fijaciones/Pernos?map=c,c,c",
+              "Map": "c",
+              "Value": "Pernos",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 81,
+          "Quantity": 3,
+          "Position": null,
+          "Name": "Herraje y Quincalleria",
+          "Link": "/Construccion/Herraje-y-Quincalleria?map=c,c",
+          "LinkEncoded": "/Construccion/Herraje-y-Quincalleria?map=c,c",
+          "Map": "c",
+          "Value": "Herraje-y-Quincalleria",
+          "Children": [
+            {
+              "Id": 87,
+              "Quantity": 3,
+              "Position": null,
+              "Name": "Picaportes y Pestillos",
+              "Link": "/Construccion/Herraje-y-Quincalleria/Picaportes-y-Pestillos?map=c,c,c",
+              "LinkEncoded": "/Construccion/Herraje-y-Quincalleria/Picaportes-y-Pestillos?map=c,c,c",
+              "Map": "c",
+              "Value": "Picaportes-y-Pestillos",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 93,
+          "Quantity": 1,
+          "Position": null,
+          "Name": "Sellantes",
+          "Link": "/Construccion/Sellantes?map=c,c",
+          "LinkEncoded": "/Construccion/Sellantes?map=c,c",
+          "Map": "c",
+          "Value": "Sellantes",
+          "Children": [
+            {
+              "Id": 96,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Silicona",
+              "Link": "/Construccion/Sellantes/Silicona?map=c,c,c",
+              "LinkEncoded": "/Construccion/Sellantes/Silicona?map=c,c,c",
+              "Map": "c",
+              "Value": "Silicona",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 97,
+          "Quantity": 1,
+          "Position": null,
+          "Name": "Gasfitería",
+          "Link": "/Construccion/Gasfiteria?map=c,c",
+          "LinkEncoded": "/Construccion/Gasfiteria?map=c,c",
+          "Map": "c",
+          "Value": "Gasfiteria",
+          "Children": [
+            {
+              "Id": 101,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Repuestos",
+              "Link": "/Construccion/Gasfiteria/Repuestos?map=c,c,c",
+              "LinkEncoded": "/Construccion/Gasfiteria/Repuestos?map=c,c,c",
+              "Map": "c",
+              "Value": "Repuestos",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 230,
+      "Quantity": 122,
+      "Position": null,
+      "Name": "Piso y Pared",
+      "Link": "/Piso-y-Pared?map=c",
+      "LinkEncoded": "/Piso-y-Pared?map=c",
+      "Map": "c",
+      "Value": "Piso-y-Pared",
+      "Children": [
+        {
+          "Id": 194,
+          "Quantity": 114,
+          "Position": null,
+          "Name": "Pinturas",
+          "Link": "/Piso-y-Pared/Pinturas?map=c,c",
+          "LinkEncoded": "/Piso-y-Pared/Pinturas?map=c,c",
+          "Map": "c",
+          "Value": "Pinturas",
+          "Children": [
+            {
+              "Id": 195,
+              "Quantity": 47,
+              "Position": null,
+              "Name": "Accesorios de Pintura",
+              "Link": "/Piso-y-Pared/Pinturas/Accesorios-de-Pintura?map=c,c,c",
+              "LinkEncoded": "/Piso-y-Pared/Pinturas/Accesorios-de-Pintura?map=c,c,c",
+              "Map": "c",
+              "Value": "Accesorios-de-Pintura",
+              "Children": []
+            },
+            {
+              "Id": 204,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Especiales",
+              "Link": "/Piso-y-Pared/Pinturas/Especiales?map=c,c,c",
+              "LinkEncoded": "/Piso-y-Pared/Pinturas/Especiales?map=c,c,c",
+              "Map": "c",
+              "Value": "Especiales",
+              "Children": []
+            },
+            {
+              "Id": 208,
+              "Quantity": 30,
+              "Position": null,
+              "Name": "Metales y Maderas",
+              "Link": "/Piso-y-Pared/Pinturas/Metales-y-Maderas?map=c,c,c",
+              "LinkEncoded": "/Piso-y-Pared/Pinturas/Metales-y-Maderas?map=c,c,c",
+              "Map": "c",
+              "Value": "Metales-y-Maderas",
+              "Children": []
+            },
+            {
+              "Id": 213,
+              "Quantity": 8,
+              "Position": null,
+              "Name": "Esmaltes al Agua",
+              "Link": "/Piso-y-Pared/Pinturas/Esmaltes-al-Agua?map=c,c,c",
+              "LinkEncoded": "/Piso-y-Pared/Pinturas/Esmaltes-al-Agua?map=c,c,c",
+              "Map": "c",
+              "Value": "Esmaltes-al-Agua",
+              "Children": []
+            },
+            {
+              "Id": 215,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Pastas y Texturas",
+              "Link": "/Piso-y-Pared/Pinturas/Pastas-y-Texturas?map=c,c,c",
+              "LinkEncoded": "/Piso-y-Pared/Pinturas/Pastas-y-Texturas?map=c,c,c",
+              "Map": "c",
+              "Value": "Pastas-y-Texturas",
+              "Children": []
+            },
+            {
+              "Id": 237,
+              "Quantity": 8,
+              "Position": null,
+              "Name": "Muros",
+              "Link": "/Piso-y-Pared/Pinturas/Muros?map=c,c,c",
+              "LinkEncoded": "/Piso-y-Pared/Pinturas/Muros?map=c,c,c",
+              "Map": "c",
+              "Value": "Muros",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 231,
+          "Quantity": 1,
+          "Position": null,
+          "Name": "Accesorios",
+          "Link": "/Piso-y-Pared/Accesorios?map=c,c",
+          "LinkEncoded": "/Piso-y-Pared/Accesorios?map=c,c",
+          "Map": "c",
+          "Value": "Accesorios",
+          "Children": [
+            {
+              "Id": 232,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Adhesivos",
+              "Link": "/Piso-y-Pared/Accesorios/Adhesivos?map=c,c,c",
+              "LinkEncoded": "/Piso-y-Pared/Accesorios/Adhesivos?map=c,c,c",
+              "Map": "c",
+              "Value": "Adhesivos",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 239,
+          "Quantity": 7,
+          "Position": null,
+          "Name": "Pisos",
+          "Link": "/Piso-y-Pared/Pisos?map=c,c",
+          "LinkEncoded": "/Piso-y-Pared/Pisos?map=c,c",
+          "Map": "c",
+          "Value": "Pisos",
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Id": 243,
+      "Quantity": 39,
+      "Position": null,
+      "Name": "Seguridad",
+      "Link": "/Seguridad?map=c",
+      "LinkEncoded": "/Seguridad?map=c",
+      "Map": "c",
+      "Value": "Seguridad",
+      "Children": [
+        {
+          "Id": 246,
+          "Quantity": 1,
+          "Position": null,
+          "Name": "Protección de Cabeza",
+          "Link": "/Seguridad/Proteccion-de-Cabeza?map=c,c",
+          "LinkEncoded": "/Seguridad/Proteccion-de-Cabeza?map=c,c",
+          "Map": "c",
+          "Value": "Proteccion-de-Cabeza",
+          "Children": []
+        },
+        {
+          "Id": 252,
+          "Quantity": 35,
+          "Position": null,
+          "Name": "Seguridad Hogar",
+          "Link": "/Seguridad/Seguridad-Hogar?map=c,c",
+          "LinkEncoded": "/Seguridad/Seguridad-Hogar?map=c,c",
+          "Map": "c",
+          "Value": "Seguridad-Hogar",
+          "Children": [
+            {
+              "Id": 254,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Cajas de Seguridad",
+              "Link": "/Seguridad/Seguridad-Hogar/Cajas-de-Seguridad?map=c,c,c",
+              "LinkEncoded": "/Seguridad/Seguridad-Hogar/Cajas-de-Seguridad?map=c,c,c",
+              "Map": "c",
+              "Value": "Cajas-de-Seguridad",
+              "Children": []
+            },
+            {
+              "Id": 255,
+              "Quantity": 34,
+              "Position": null,
+              "Name": "Candados y Cadenas",
+              "Link": "/Seguridad/Seguridad-Hogar/Candados-y-Cadenas?map=c,c,c",
+              "LinkEncoded": "/Seguridad/Seguridad-Hogar/Candados-y-Cadenas?map=c,c,c",
+              "Map": "c",
+              "Value": "Candados-y-Cadenas",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 258,
+          "Quantity": 3,
+          "Position": null,
+          "Name": "Seguridad Vial",
+          "Link": "/Seguridad/Seguridad-Vial?map=c,c",
+          "LinkEncoded": "/Seguridad/Seguridad-Vial?map=c,c",
+          "Map": "c",
+          "Value": "Seguridad-Vial",
+          "Children": [
+            {
+              "Id": 259,
+              "Quantity": 3,
+              "Position": null,
+              "Name": "Señalización",
+              "Link": "/Seguridad/Seguridad-Vial/Señalizacion?map=c,c,c",
+              "LinkEncoded": "/Seguridad/Seguridad-Vial/Se%C3%B1alizacion?map=c,c,c",
+              "Map": "c",
+              "Value": "Señalizacion",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 261,
+      "Quantity": 204,
+      "Position": null,
+      "Name": "Jardín y Aire Libre",
+      "Link": "/Jardin-y-Aire-Libre?map=c",
+      "LinkEncoded": "/Jardin-y-Aire-Libre?map=c",
+      "Map": "c",
+      "Value": "Jardin-y-Aire-Libre",
+      "Children": [
+        {
+          "Id": 262,
+          "Quantity": 3,
+          "Position": null,
+          "Name": "Cuidados Jardín",
+          "Link": "/Jardin-y-Aire-Libre/Cuidados-Jardin?map=c,c",
+          "LinkEncoded": "/Jardin-y-Aire-Libre/Cuidados-Jardin?map=c,c",
+          "Map": "c",
+          "Value": "Cuidados-Jardin",
+          "Children": [
+            {
+              "Id": 267,
+              "Quantity": 3,
+              "Position": null,
+              "Name": "Decoración Jardín",
+              "Link": "/Jardin-y-Aire-Libre/Cuidados-Jardin/Decoracion-Jardin?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Cuidados-Jardin/Decoracion-Jardin?map=c,c,c",
+              "Map": "c",
+              "Value": "Decoracion-Jardin",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 286,
+          "Quantity": 5,
+          "Position": null,
+          "Name": "Mascotas",
+          "Link": "/Jardin-y-Aire-Libre/Mascotas?map=c,c",
+          "LinkEncoded": "/Jardin-y-Aire-Libre/Mascotas?map=c,c",
+          "Map": "c",
+          "Value": "Mascotas",
+          "Children": [
+            {
+              "Id": 287,
+              "Quantity": 5,
+              "Position": null,
+              "Name": "Accesorios",
+              "Link": "/Jardin-y-Aire-Libre/Mascotas/Accesorios?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Mascotas/Accesorios?map=c,c,c",
+              "Map": "c",
+              "Value": "Accesorios",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 290,
+          "Quantity": 11,
+          "Position": null,
+          "Name": "Organización del Jardín",
+          "Link": "/Jardin-y-Aire-Libre/Organizacion-del-Jardin?map=c,c",
+          "LinkEncoded": "/Jardin-y-Aire-Libre/Organizacion-del-Jardin?map=c,c",
+          "Map": "c",
+          "Value": "Organizacion-del-Jardin",
+          "Children": [
+            {
+              "Id": 291,
+              "Quantity": 11,
+              "Position": null,
+              "Name": "Bodegas",
+              "Link": "/Jardin-y-Aire-Libre/Organizacion-del-Jardin/Bodegas?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Organizacion-del-Jardin/Bodegas?map=c,c,c",
+              "Map": "c",
+              "Value": "Bodegas",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 298,
+          "Quantity": 108,
+          "Position": null,
+          "Name": "Camping",
+          "Link": "/Jardin-y-Aire-Libre/Camping?map=c,c",
+          "LinkEncoded": "/Jardin-y-Aire-Libre/Camping?map=c,c",
+          "Map": "c",
+          "Value": "Camping",
+          "Children": [
+            {
+              "Id": 299,
+              "Quantity": 38,
+              "Position": null,
+              "Name": "Accesorios",
+              "Link": "/Jardin-y-Aire-Libre/Camping/Accesorios?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Camping/Accesorios?map=c,c,c",
+              "Map": "c",
+              "Value": "Accesorios",
+              "Children": []
+            },
+            {
+              "Id": 300,
+              "Quantity": 19,
+              "Position": null,
+              "Name": "Carpas",
+              "Link": "/Jardin-y-Aire-Libre/Camping/Carpas?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Camping/Carpas?map=c,c,c",
+              "Map": "c",
+              "Value": "Carpas",
+              "Children": []
+            },
+            {
+              "Id": 302,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Colchones",
+              "Link": "/Jardin-y-Aire-Libre/Camping/Colchones?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Camping/Colchones?map=c,c,c",
+              "Map": "c",
+              "Value": "Colchones",
+              "Children": []
+            },
+            {
+              "Id": 303,
+              "Quantity": 3,
+              "Position": null,
+              "Name": "Menaje",
+              "Link": "/Jardin-y-Aire-Libre/Camping/Menaje?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Camping/Menaje?map=c,c,c",
+              "Map": "c",
+              "Value": "Menaje",
+              "Children": []
+            },
+            {
+              "Id": 304,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Mesas Plegables",
+              "Link": "/Jardin-y-Aire-Libre/Camping/Mesas-Plegables?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Camping/Mesas-Plegables?map=c,c,c",
+              "Map": "c",
+              "Value": "Mesas-Plegables",
+              "Children": []
+            },
+            {
+              "Id": 305,
+              "Quantity": 38,
+              "Position": null,
+              "Name": "Mochilas",
+              "Link": "/Jardin-y-Aire-Libre/Camping/Mochilas?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Camping/Mochilas?map=c,c,c",
+              "Map": "c",
+              "Value": "Mochilas",
+              "Children": []
+            },
+            {
+              "Id": 306,
+              "Quantity": 3,
+              "Position": null,
+              "Name": "Sacos de Dormir",
+              "Link": "/Jardin-y-Aire-Libre/Camping/Sacos-de-Dormir?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Camping/Sacos-de-Dormir?map=c,c,c",
+              "Map": "c",
+              "Value": "Sacos-de-Dormir",
+              "Children": []
+            },
+            {
+              "Id": 326,
+              "Quantity": 4,
+              "Position": null,
+              "Name": "Coolers y Neveras",
+              "Link": "/Jardin-y-Aire-Libre/Camping/Coolers-y-Neveras?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Camping/Coolers-y-Neveras?map=c,c,c",
+              "Map": "c",
+              "Value": "Coolers-y-Neveras",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 307,
+          "Quantity": 49,
+          "Position": null,
+          "Name": "Entretenimiento",
+          "Link": "/Jardin-y-Aire-Libre/Entretenimiento?map=c,c",
+          "LinkEncoded": "/Jardin-y-Aire-Libre/Entretenimiento?map=c,c",
+          "Map": "c",
+          "Value": "Entretenimiento",
+          "Children": [
+            {
+              "Id": 308,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Deportes",
+              "Link": "/Jardin-y-Aire-Libre/Entretenimiento/Deportes?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Entretenimiento/Deportes?map=c,c,c",
+              "Map": "c",
+              "Value": "Deportes",
+              "Children": []
+            },
+            {
+              "Id": 309,
+              "Quantity": 47,
+              "Position": null,
+              "Name": "Juguetería",
+              "Link": "/Jardin-y-Aire-Libre/Entretenimiento/Jugueteria?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Entretenimiento/Jugueteria?map=c,c,c",
+              "Map": "c",
+              "Value": "Jugueteria",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 311,
+          "Quantity": 20,
+          "Position": null,
+          "Name": "Parrillas",
+          "Link": "/Jardin-y-Aire-Libre/Parrillas?map=c,c",
+          "LinkEncoded": "/Jardin-y-Aire-Libre/Parrillas?map=c,c",
+          "Map": "c",
+          "Value": "Parrillas",
+          "Children": [
+            {
+              "Id": 312,
+              "Quantity": 16,
+              "Position": null,
+              "Name": "Accesorios",
+              "Link": "/Jardin-y-Aire-Libre/Parrillas/Accesorios?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Parrillas/Accesorios?map=c,c,c",
+              "Map": "c",
+              "Value": "Accesorios",
+              "Children": []
+            },
+            {
+              "Id": 314,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Parrilla Carbón",
+              "Link": "/Jardin-y-Aire-Libre/Parrillas/Parrilla-Carbon?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Parrillas/Parrilla-Carbon?map=c,c,c",
+              "Map": "c",
+              "Value": "Parrilla-Carbon",
+              "Children": []
+            },
+            {
+              "Id": 315,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Parrilla Gas",
+              "Link": "/Jardin-y-Aire-Libre/Parrillas/Parrilla-Gas?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Parrillas/Parrilla-Gas?map=c,c,c",
+              "Map": "c",
+              "Value": "Parrilla-Gas",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 67,
+          "Quantity": 8,
+          "Position": null,
+          "Name": "Automóviles",
+          "Link": "/Jardin-y-Aire-Libre/Automoviles?map=c,c",
+          "LinkEncoded": "/Jardin-y-Aire-Libre/Automoviles?map=c,c",
+          "Map": "c",
+          "Value": "Automoviles",
+          "Children": [
+            {
+              "Id": 156,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Herramientas Neumáticas",
+              "Link": "/Jardin-y-Aire-Libre/Automoviles/Herramientas-Neumaticas?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Automoviles/Herramientas-Neumaticas?map=c,c,c",
+              "Map": "c",
+              "Value": "Herramientas-Neumaticas",
+              "Children": []
+            },
+            {
+              "Id": 353,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Neumáticos",
+              "Link": "/Jardin-y-Aire-Libre/Automoviles/Neumaticos?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Automoviles/Neumaticos?map=c,c,c",
+              "Map": "c",
+              "Value": "Neumaticos",
+              "Children": []
+            },
+            {
+              "Id": 360,
+              "Quantity": 6,
+              "Position": null,
+              "Name": "Accesorios",
+              "Link": "/Jardin-y-Aire-Libre/Automoviles/Accesorios?map=c,c,c",
+              "LinkEncoded": "/Jardin-y-Aire-Libre/Automoviles/Accesorios?map=c,c,c",
+              "Map": "c",
+              "Value": "Accesorios",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 328,
+      "Quantity": 79,
+      "Position": null,
+      "Name": "Hogar",
+      "Link": "/Hogar?map=c",
+      "LinkEncoded": "/Hogar?map=c",
+      "Map": "c",
+      "Value": "Hogar",
+      "Children": [
+        {
+          "Id": 180,
+          "Quantity": 12,
+          "Position": null,
+          "Name": "Muebles y Decoración",
+          "Link": "/Hogar/Muebles-y-Decoracion?map=c,c",
+          "LinkEncoded": "/Hogar/Muebles-y-Decoracion?map=c,c",
+          "Map": "c",
+          "Value": "Muebles-y-Decoracion",
+          "Children": [
+            {
+              "Id": 185,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Living y Estar",
+              "Link": "/Hogar/Muebles-y-Decoracion/Living-y-Estar?map=c,c,c",
+              "LinkEncoded": "/Hogar/Muebles-y-Decoracion/Living-y-Estar?map=c,c,c",
+              "Map": "c",
+              "Value": "Living-y-Estar",
+              "Children": []
+            },
+            {
+              "Id": 186,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Cómodas y Closets",
+              "Link": "/Hogar/Muebles-y-Decoracion/Comodas-y-Closets?map=c,c,c",
+              "LinkEncoded": "/Hogar/Muebles-y-Decoracion/Comodas-y-Closets?map=c,c,c",
+              "Map": "c",
+              "Value": "Comodas-y-Closets",
+              "Children": []
+            },
+            {
+              "Id": 187,
+              "Quantity": 3,
+              "Position": null,
+              "Name": "Dormitorio",
+              "Link": "/Hogar/Muebles-y-Decoracion/Dormitorio?map=c,c,c",
+              "LinkEncoded": "/Hogar/Muebles-y-Decoracion/Dormitorio?map=c,c,c",
+              "Map": "c",
+              "Value": "Dormitorio",
+              "Children": []
+            },
+            {
+              "Id": 193,
+              "Quantity": 4,
+              "Position": null,
+              "Name": "Sala de Estar",
+              "Link": "/Hogar/Muebles-y-Decoracion/Sala-de-Estar?map=c,c,c",
+              "LinkEncoded": "/Hogar/Muebles-y-Decoracion/Sala-de-Estar?map=c,c,c",
+              "Map": "c",
+              "Value": "Sala-de-Estar",
+              "Children": []
+            },
+            {
+              "Id": 334,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Comedor",
+              "Link": "/Hogar/Muebles-y-Decoracion/Comedor?map=c,c,c",
+              "LinkEncoded": "/Hogar/Muebles-y-Decoracion/Comedor?map=c,c,c",
+              "Map": "c",
+              "Value": "Comedor",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 331,
+          "Quantity": 8,
+          "Position": null,
+          "Name": "Oficina",
+          "Link": "/Hogar/Oficina?map=c,c",
+          "LinkEncoded": "/Hogar/Oficina?map=c,c",
+          "Map": "c",
+          "Value": "Oficina",
+          "Children": [
+            {
+              "Id": 190,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Muebles Computación",
+              "Link": "/Hogar/Oficina/Muebles-Computacion?map=c,c,c",
+              "LinkEncoded": "/Hogar/Oficina/Muebles-Computacion?map=c,c,c",
+              "Map": "c",
+              "Value": "Muebles-Computacion",
+              "Children": []
+            },
+            {
+              "Id": 191,
+              "Quantity": 7,
+              "Position": null,
+              "Name": "Muebles Oficina",
+              "Link": "/Hogar/Oficina/Muebles-Oficina?map=c,c,c",
+              "LinkEncoded": "/Hogar/Oficina/Muebles-Oficina?map=c,c,c",
+              "Map": "c",
+              "Value": "Muebles-Oficina",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 332,
+          "Quantity": 16,
+          "Position": null,
+          "Name": "Limpieza",
+          "Link": "/Hogar/Limpieza?map=c,c",
+          "LinkEncoded": "/Hogar/Limpieza?map=c,c",
+          "Map": "c",
+          "Value": "Limpieza",
+          "Children": [
+            {
+              "Id": 19,
+              "Quantity": 14,
+              "Position": null,
+              "Name": "Basureros",
+              "Link": "/Hogar/Limpieza/Basureros?map=c,c,c",
+              "LinkEncoded": "/Hogar/Limpieza/Basureros?map=c,c,c",
+              "Map": "c",
+              "Value": "Basureros",
+              "Children": []
+            },
+            {
+              "Id": 20,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Escobas",
+              "Link": "/Hogar/Limpieza/Escobas?map=c,c,c",
+              "LinkEncoded": "/Hogar/Limpieza/Escobas?map=c,c,c",
+              "Map": "c",
+              "Value": "Escobas",
+              "Children": []
+            },
+            {
+              "Id": 21,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Otros Utensilios",
+              "Link": "/Hogar/Limpieza/Otros-Utensilios?map=c,c,c",
+              "LinkEncoded": "/Hogar/Limpieza/Otros-Utensilios?map=c,c,c",
+              "Map": "c",
+              "Value": "Otros-Utensilios",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 40,
+          "Quantity": 19,
+          "Position": null,
+          "Name": "Cocina",
+          "Link": "/Hogar/Cocina?map=c,c",
+          "LinkEncoded": "/Hogar/Cocina?map=c,c",
+          "Map": "c",
+          "Value": "Cocina",
+          "Children": [
+            {
+              "Id": 13,
+              "Quantity": 6,
+              "Position": null,
+              "Name": "Cocina Semi-Industrial",
+              "Link": "/Hogar/Cocina/Cocina-Semi-Industrial?map=c,c,c",
+              "LinkEncoded": "/Hogar/Cocina/Cocina-Semi-Industrial?map=c,c,c",
+              "Map": "c",
+              "Value": "Cocina-Semi-Industrial",
+              "Children": []
+            },
+            {
+              "Id": 15,
+              "Quantity": 3,
+              "Position": null,
+              "Name": "Menaje Cocina",
+              "Link": "/Hogar/Cocina/Menaje-Cocina?map=c,c,c",
+              "LinkEncoded": "/Hogar/Cocina/Menaje-Cocina?map=c,c,c",
+              "Map": "c",
+              "Value": "Menaje-Cocina",
+              "Children": []
+            },
+            {
+              "Id": 16,
+              "Quantity": 8,
+              "Position": null,
+              "Name": "Muebles Cocina",
+              "Link": "/Hogar/Cocina/Muebles-Cocina?map=c,c,c",
+              "LinkEncoded": "/Hogar/Cocina/Muebles-Cocina?map=c,c,c",
+              "Map": "c",
+              "Value": "Muebles-Cocina",
+              "Children": []
+            },
+            {
+              "Id": 17,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Organizadores Cocina",
+              "Link": "/Hogar/Cocina/Organizadores-Cocina?map=c,c,c",
+              "LinkEncoded": "/Hogar/Cocina/Organizadores-Cocina?map=c,c,c",
+              "Map": "c",
+              "Value": "Organizadores-Cocina",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 41,
+          "Quantity": 12,
+          "Position": null,
+          "Name": "Electrodomésticos",
+          "Link": "/Hogar/Electrodomesticos?map=c,c",
+          "LinkEncoded": "/Hogar/Electrodomesticos?map=c,c",
+          "Map": "c",
+          "Value": "Electrodomesticos",
+          "Children": [
+            {
+              "Id": 42,
+              "Quantity": 4,
+              "Position": null,
+              "Name": "Aspiradoras",
+              "Link": "/Hogar/Electrodomesticos/Aspiradoras?map=c,c,c",
+              "LinkEncoded": "/Hogar/Electrodomesticos/Aspiradoras?map=c,c,c",
+              "Map": "c",
+              "Value": "Aspiradoras",
+              "Children": []
+            },
+            {
+              "Id": 43,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Batidoras",
+              "Link": "/Hogar/Electrodomesticos/Batidoras?map=c,c,c",
+              "LinkEncoded": "/Hogar/Electrodomesticos/Batidoras?map=c,c,c",
+              "Map": "c",
+              "Value": "Batidoras",
+              "Children": []
+            },
+            {
+              "Id": 44,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Cafeteras y Hervidores",
+              "Link": "/Hogar/Electrodomesticos/Cafeteras-y-Hervidores?map=c,c,c",
+              "LinkEncoded": "/Hogar/Electrodomesticos/Cafeteras-y-Hervidores?map=c,c,c",
+              "Map": "c",
+              "Value": "Cafeteras-y-Hervidores",
+              "Children": []
+            },
+            {
+              "Id": 45,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Licuadoras",
+              "Link": "/Hogar/Electrodomesticos/Licuadoras?map=c,c,c",
+              "LinkEncoded": "/Hogar/Electrodomesticos/Licuadoras?map=c,c,c",
+              "Map": "c",
+              "Value": "Licuadoras",
+              "Children": []
+            },
+            {
+              "Id": 46,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Microondas",
+              "Link": "/Hogar/Electrodomesticos/Microondas?map=c,c,c",
+              "LinkEncoded": "/Hogar/Electrodomesticos/Microondas?map=c,c,c",
+              "Map": "c",
+              "Value": "Microondas",
+              "Children": []
+            },
+            {
+              "Id": 47,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Otros",
+              "Link": "/Hogar/Electrodomesticos/Otros?map=c,c,c",
+              "LinkEncoded": "/Hogar/Electrodomesticos/Otros?map=c,c,c",
+              "Map": "c",
+              "Value": "Otros",
+              "Children": []
+            },
+            {
+              "Id": 48,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Planchas",
+              "Link": "/Hogar/Electrodomesticos/Planchas?map=c,c,c",
+              "LinkEncoded": "/Hogar/Electrodomesticos/Planchas?map=c,c,c",
+              "Map": "c",
+              "Value": "Planchas",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 54,
+          "Quantity": 12,
+          "Position": null,
+          "Name": "Línea Blanca",
+          "Link": "/Hogar/Linea-Blanca?map=c,c",
+          "LinkEncoded": "/Hogar/Linea-Blanca?map=c,c",
+          "Map": "c",
+          "Value": "Linea-Blanca",
+          "Children": [
+            {
+              "Id": 56,
+              "Quantity": 4,
+              "Position": null,
+              "Name": "Cocinas",
+              "Link": "/Hogar/Linea-Blanca/Cocinas?map=c,c,c",
+              "LinkEncoded": "/Hogar/Linea-Blanca/Cocinas?map=c,c,c",
+              "Map": "c",
+              "Value": "Cocinas",
+              "Children": []
+            },
+            {
+              "Id": 57,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Extractores de Aire",
+              "Link": "/Hogar/Linea-Blanca/Extractores-de-Aire?map=c,c,c",
+              "LinkEncoded": "/Hogar/Linea-Blanca/Extractores-de-Aire?map=c,c,c",
+              "Map": "c",
+              "Value": "Extractores-de-Aire",
+              "Children": []
+            },
+            {
+              "Id": 58,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Hornos",
+              "Link": "/Hogar/Linea-Blanca/Hornos?map=c,c,c",
+              "LinkEncoded": "/Hogar/Linea-Blanca/Hornos?map=c,c,c",
+              "Map": "c",
+              "Value": "Hornos",
+              "Children": []
+            },
+            {
+              "Id": 59,
+              "Quantity": 4,
+              "Position": null,
+              "Name": "Lavado y Secado",
+              "Link": "/Hogar/Linea-Blanca/Lavado-y-Secado?map=c,c,c",
+              "LinkEncoded": "/Hogar/Linea-Blanca/Lavado-y-Secado?map=c,c,c",
+              "Map": "c",
+              "Value": "Lavado-y-Secado",
+              "Children": []
+            },
+            {
+              "Id": 61,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Refrigeradores",
+              "Link": "/Hogar/Linea-Blanca/Refrigeradores?map=c,c,c",
+              "LinkEncoded": "/Hogar/Linea-Blanca/Refrigeradores?map=c,c,c",
+              "Map": "c",
+              "Value": "Refrigeradores",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 329,
+      "Quantity": 27,
+      "Position": null,
+      "Name": "Climatización",
+      "Link": "/Climatizacion?map=c",
+      "LinkEncoded": "/Climatizacion?map=c",
+      "Map": "c",
+      "Value": "Climatizacion",
+      "Children": [
+        {
+          "Id": 323,
+          "Quantity": 17,
+          "Position": null,
+          "Name": "Calefacción",
+          "Link": "/Climatizacion/Calefaccion?map=c,c",
+          "LinkEncoded": "/Climatizacion/Calefaccion?map=c,c",
+          "Map": "c",
+          "Value": "Calefaccion",
+          "Children": [
+            {
+              "Id": 336,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Convectores",
+              "Link": "/Climatizacion/Calefaccion/Convectores?map=c,c,c",
+              "LinkEncoded": "/Climatizacion/Calefaccion/Convectores?map=c,c,c",
+              "Map": "c",
+              "Value": "Convectores",
+              "Children": []
+            },
+            {
+              "Id": 338,
+              "Quantity": 11,
+              "Position": null,
+              "Name": "Calefactores",
+              "Link": "/Climatizacion/Calefaccion/Calefactores?map=c,c,c",
+              "LinkEncoded": "/Climatizacion/Calefaccion/Calefactores?map=c,c,c",
+              "Map": "c",
+              "Value": "Calefactores",
+              "Children": []
+            },
+            {
+              "Id": 339,
+              "Quantity": 4,
+              "Position": null,
+              "Name": "Estufa",
+              "Link": "/Climatizacion/Calefaccion/Estufa?map=c,c,c",
+              "LinkEncoded": "/Climatizacion/Calefaccion/Estufa?map=c,c,c",
+              "Map": "c",
+              "Value": "Estufa",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 324,
+          "Quantity": 10,
+          "Position": null,
+          "Name": "Ventilación",
+          "Link": "/Climatizacion/Ventilacion?map=c,c",
+          "LinkEncoded": "/Climatizacion/Ventilacion?map=c,c",
+          "Map": "c",
+          "Value": "Ventilacion",
+          "Children": [
+            {
+              "Id": 341,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Aire Acondicionado",
+              "Link": "/Climatizacion/Ventilacion/Aire-Acondicionado?map=c,c,c",
+              "LinkEncoded": "/Climatizacion/Ventilacion/Aire-Acondicionado?map=c,c,c",
+              "Map": "c",
+              "Value": "Aire-Acondicionado",
+              "Children": []
+            },
+            {
+              "Id": 342,
+              "Quantity": 7,
+              "Position": null,
+              "Name": "Ventilador",
+              "Link": "/Climatizacion/Ventilacion/Ventilador?map=c,c,c",
+              "LinkEncoded": "/Climatizacion/Ventilacion/Ventilador?map=c,c,c",
+              "Map": "c",
+              "Value": "Ventilador",
+              "Children": []
+            },
+            {
+              "Id": 352,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Purificadores",
+              "Link": "/Climatizacion/Ventilacion/Purificadores?map=c,c,c",
+              "LinkEncoded": "/Climatizacion/Ventilacion/Purificadores?map=c,c,c",
+              "Map": "c",
+              "Value": "Purificadores",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 362,
+      "Quantity": 300,
+      "Position": null,
+      "Name": "Herramientas",
+      "Link": "/Herramientas?map=c",
+      "LinkEncoded": "/Herramientas?map=c",
+      "Map": "c",
+      "Value": "Herramientas",
+      "Children": [
+        {
+          "Id": 120,
+          "Quantity": 198,
+          "Position": null,
+          "Name": "Herramientas Eléctricas",
+          "Link": "/Herramientas/Herramientas-Electricas?map=c,c",
+          "LinkEncoded": "/Herramientas/Herramientas-Electricas?map=c,c",
+          "Map": "c",
+          "Value": "Herramientas-Electricas",
+          "Children": [
+            {
+              "Id": 121,
+              "Quantity": 92,
+              "Position": null,
+              "Name": "Accesorios",
+              "Link": "/Herramientas/Herramientas-Electricas/Accesorios?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Electricas/Accesorios?map=c,c,c",
+              "Map": "c",
+              "Value": "Accesorios",
+              "Children": []
+            },
+            {
+              "Id": 122,
+              "Quantity": 7,
+              "Position": null,
+              "Name": "Atornilladores",
+              "Link": "/Herramientas/Herramientas-Electricas/Atornilladores?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Electricas/Atornilladores?map=c,c,c",
+              "Map": "c",
+              "Value": "Atornilladores",
+              "Children": []
+            },
+            {
+              "Id": 123,
+              "Quantity": 14,
+              "Position": null,
+              "Name": "Discos",
+              "Link": "/Herramientas/Herramientas-Electricas/Discos?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Electricas/Discos?map=c,c,c",
+              "Map": "c",
+              "Value": "Discos",
+              "Children": []
+            },
+            {
+              "Id": 124,
+              "Quantity": 6,
+              "Position": null,
+              "Name": "Esmeriles",
+              "Link": "/Herramientas/Herramientas-Electricas/Esmeriles?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Electricas/Esmeriles?map=c,c,c",
+              "Map": "c",
+              "Value": "Esmeriles",
+              "Children": []
+            },
+            {
+              "Id": 126,
+              "Quantity": 10,
+              "Position": null,
+              "Name": "Herramientas Desbaste",
+              "Link": "/Herramientas/Herramientas-Electricas/Herramientas-Desbaste?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Electricas/Herramientas-Desbaste?map=c,c,c",
+              "Map": "c",
+              "Value": "Herramientas-Desbaste",
+              "Children": []
+            },
+            {
+              "Id": 127,
+              "Quantity": 6,
+              "Position": null,
+              "Name": "Hidrolavadoras",
+              "Link": "/Herramientas/Herramientas-Electricas/Hidrolavadoras?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Electricas/Hidrolavadoras?map=c,c,c",
+              "Map": "c",
+              "Value": "Hidrolavadoras",
+              "Children": []
+            },
+            {
+              "Id": 128,
+              "Quantity": 15,
+              "Position": null,
+              "Name": "Otros",
+              "Link": "/Herramientas/Herramientas-Electricas/Otros?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Electricas/Otros?map=c,c,c",
+              "Map": "c",
+              "Value": "Otros",
+              "Children": []
+            },
+            {
+              "Id": 129,
+              "Quantity": 3,
+              "Position": null,
+              "Name": "Pistolas de Calor",
+              "Link": "/Herramientas/Herramientas-Electricas/Pistolas-de-Calor?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Electricas/Pistolas-de-Calor?map=c,c,c",
+              "Map": "c",
+              "Value": "Pistolas-de-Calor",
+              "Children": []
+            },
+            {
+              "Id": 130,
+              "Quantity": 3,
+              "Position": null,
+              "Name": "Pulidoras",
+              "Link": "/Herramientas/Herramientas-Electricas/Pulidoras?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Electricas/Pulidoras?map=c,c,c",
+              "Map": "c",
+              "Value": "Pulidoras",
+              "Children": []
+            },
+            {
+              "Id": 131,
+              "Quantity": 4,
+              "Position": null,
+              "Name": "Rotomartillos",
+              "Link": "/Herramientas/Herramientas-Electricas/Rotomartillos?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Electricas/Rotomartillos?map=c,c,c",
+              "Map": "c",
+              "Value": "Rotomartillos",
+              "Children": []
+            },
+            {
+              "Id": 132,
+              "Quantity": 6,
+              "Position": null,
+              "Name": "Set Herramientas",
+              "Link": "/Herramientas/Herramientas-Electricas/Set-Herramientas?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Electricas/Set-Herramientas?map=c,c,c",
+              "Map": "c",
+              "Value": "Set-Herramientas",
+              "Children": []
+            },
+            {
+              "Id": 133,
+              "Quantity": 8,
+              "Position": null,
+              "Name": "Sierras",
+              "Link": "/Herramientas/Herramientas-Electricas/Sierras?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Electricas/Sierras?map=c,c,c",
+              "Map": "c",
+              "Value": "Sierras",
+              "Children": []
+            },
+            {
+              "Id": 134,
+              "Quantity": 20,
+              "Position": null,
+              "Name": "Taladros",
+              "Link": "/Herramientas/Herramientas-Electricas/Taladros?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Electricas/Taladros?map=c,c,c",
+              "Map": "c",
+              "Value": "Taladros",
+              "Children": []
+            },
+            {
+              "Id": 160,
+              "Quantity": 4,
+              "Position": null,
+              "Name": "Soldadoras",
+              "Link": "/Herramientas/Herramientas-Electricas/Soldadoras?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Electricas/Soldadoras?map=c,c,c",
+              "Map": "c",
+              "Value": "Soldadoras",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 136,
+          "Quantity": 54,
+          "Position": null,
+          "Name": "Herramientas Manuales",
+          "Link": "/Herramientas/Herramientas-Manuales?map=c,c",
+          "LinkEncoded": "/Herramientas/Herramientas-Manuales?map=c,c",
+          "Map": "c",
+          "Value": "Herramientas-Manuales",
+          "Children": [
+            {
+              "Id": 137,
+              "Quantity": 34,
+              "Position": null,
+              "Name": "Accesorios",
+              "Link": "/Herramientas/Herramientas-Manuales/Accesorios?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Manuales/Accesorios?map=c,c,c",
+              "Map": "c",
+              "Value": "Accesorios",
+              "Children": []
+            },
+            {
+              "Id": 140,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Combos y Martillos",
+              "Link": "/Herramientas/Herramientas-Manuales/Combos-y-Martillos?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Manuales/Combos-y-Martillos?map=c,c,c",
+              "Map": "c",
+              "Value": "Combos-y-Martillos",
+              "Children": []
+            },
+            {
+              "Id": 144,
+              "Quantity": 4,
+              "Position": null,
+              "Name": "Herramientas de Medición",
+              "Link": "/Herramientas/Herramientas-Manuales/Herramientas-de-Medicion?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Manuales/Herramientas-de-Medicion?map=c,c,c",
+              "Map": "c",
+              "Value": "Herramientas-de-Medicion",
+              "Children": []
+            },
+            {
+              "Id": 147,
+              "Quantity": 5,
+              "Position": null,
+              "Name": "Otros",
+              "Link": "/Herramientas/Herramientas-Manuales/Otros?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Manuales/Otros?map=c,c,c",
+              "Map": "c",
+              "Value": "Otros",
+              "Children": []
+            },
+            {
+              "Id": 148,
+              "Quantity": 4,
+              "Position": null,
+              "Name": "Set Herramientas",
+              "Link": "/Herramientas/Herramientas-Manuales/Set-Herramientas?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Manuales/Set-Herramientas?map=c,c,c",
+              "Map": "c",
+              "Value": "Set-Herramientas",
+              "Children": []
+            },
+            {
+              "Id": 150,
+              "Quantity": 5,
+              "Position": null,
+              "Name": "Tecles y Winches",
+              "Link": "/Herramientas/Herramientas-Manuales/Tecles-y-Winches?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-Manuales/Tecles-y-Winches?map=c,c,c",
+              "Map": "c",
+              "Value": "Tecles-y-Winches",
+              "Children": []
+            }
+          ]
+        },
+        {
+          "Id": 268,
+          "Quantity": 48,
+          "Position": null,
+          "Name": "Herramientas del Jardín",
+          "Link": "/Herramientas/Herramientas-del-Jardin?map=c,c",
+          "LinkEncoded": "/Herramientas/Herramientas-del-Jardin?map=c,c",
+          "Map": "c",
+          "Value": "Herramientas-del-Jardin",
+          "Children": [
+            {
+              "Id": 270,
+              "Quantity": 3,
+              "Position": null,
+              "Name": "Excavación",
+              "Link": "/Herramientas/Herramientas-del-Jardin/Excavacion?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-del-Jardin/Excavacion?map=c,c,c",
+              "Map": "c",
+              "Value": "Excavacion",
+              "Children": []
+            },
+            {
+              "Id": 271,
+              "Quantity": 4,
+              "Position": null,
+              "Name": "Herramientas",
+              "Link": "/Herramientas/Herramientas-del-Jardin/Herramientas?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-del-Jardin/Herramientas?map=c,c,c",
+              "Map": "c",
+              "Value": "Herramientas",
+              "Children": []
+            },
+            {
+              "Id": 273,
+              "Quantity": 2,
+              "Position": null,
+              "Name": "Otros",
+              "Link": "/Herramientas/Herramientas-del-Jardin/Otros?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-del-Jardin/Otros?map=c,c,c",
+              "Map": "c",
+              "Value": "Otros",
+              "Children": []
+            },
+            {
+              "Id": 274,
+              "Quantity": 6,
+              "Position": null,
+              "Name": "Poda",
+              "Link": "/Herramientas/Herramientas-del-Jardin/Poda?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-del-Jardin/Poda?map=c,c,c",
+              "Map": "c",
+              "Value": "Poda",
+              "Children": []
+            },
+            {
+              "Id": 275,
+              "Quantity": 1,
+              "Position": null,
+              "Name": "Riego Automático",
+              "Link": "/Herramientas/Herramientas-del-Jardin/Riego-Automatico?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-del-Jardin/Riego-Automatico?map=c,c,c",
+              "Map": "c",
+              "Value": "Riego-Automatico",
+              "Children": []
+            },
+            {
+              "Id": 276,
+              "Quantity": 32,
+              "Position": null,
+              "Name": "Riego Manual",
+              "Link": "/Herramientas/Herramientas-del-Jardin/Riego-Manual?map=c,c,c",
+              "LinkEncoded": "/Herramientas/Herramientas-del-Jardin/Riego-Manual?map=c,c,c",
+              "Map": "c",
+              "Value": "Riego-Manual",
+              "Children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "PriceRanges": [],
+  "Summary": {
+    "Departments": {
+      "DisplayedItems": 11,
+      "TotalItems": 11
+    },
+    "CategoriesTrees": {
+      "DisplayedItems": 169,
+      "TotalItems": 169
+    },
+    "Brands": {
+      "DisplayedItems": 100,
+      "TotalItems": 107
+    },
+    "PriceRanges": {
+      "DisplayedItems": 0,
+      "TotalItems": 0
+    },
+    "SpecificationFilters": {}
+  }
+}
